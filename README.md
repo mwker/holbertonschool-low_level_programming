@@ -20,7 +20,3 @@ Chaque projet se trouve dans son propre dossier, avec un `README.md` qui décrit
 - Compilateur : `gcc` avec les options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 - Style de code : Betty
 - Éditeurs : `vi`, `vim`, `emacs`
-
-## Auteur
-
-- **mwker** - [GitHub](https://github.com/mwker)
